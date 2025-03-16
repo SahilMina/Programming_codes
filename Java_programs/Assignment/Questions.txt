@@ -1,0 +1,51 @@
+### *Input-Output Statements*
+1. Write a Java program to take a user's name as input and print a greeting message.
+2. Write a program to read an integer, a double, and a string from the user and print them.
+3. Write a program to take two integers as input and print their sum, difference, product, and quotient.
+4. Write a Java program to swap two numbers using a temporary variable.
+5. Write a program to find the area and perimeter of a rectangle by taking input from the user.
+
+---
+
+### *Conditional Statements*
+6. Write a Java program to check whether a number is positive, negative, or zero using if-else.
+7. Write a Java program to determine whether a given number is even or odd.
+8. Write a Java program that asks the user to enter a year and checks whether it is a leap year or not.
+9. Write a program to find the largest of three numbers using if-else statements.
+10. Write a Java program to assign grades (A, B, C, D, or Fail) based on a student’s percentage.
+
+---
+
+### *Switch Case*
+11. Write a Java program to take a number (1-7) as input and display the corresponding day of the week.
+12. Write a program that takes a month number (1-12) and prints the number of days in that month.
+13. Write a Java program using a switch case to perform basic arithmetic operations (+, -, *, /).
+14. Write a Java program to check whether a character entered by the user is a vowel or consonant.
+15. Write a Java program to determine whether an input character is an uppercase or lowercase letter.
+
+---
+
+### *Loops*
+16. Write a Java program to print the first 10 natural numbers using a while loop.
+17. Write a Java program to display the multiplication table of a given number using a for loop.
+18. Write a Java program to find the sum of all numbers from 1 to N using a do-while loop.
+19. Write a Java program to find the factorial of a given number using a for loop.
+20. Write a Java program to count the number of digits in a given number using a while loop.
+
+---
+
+### *Looping Statements - Patterns*
+21. Write a Java program to print a right-angled triangle pattern using numbers.
+22. Write a Java program to print a pyramid pattern using stars (*).
+23. Write a Java program to print the Fibonacci series up to a given number of terms.
+24. Write a Java program to check if a given number is prime or not.
+25. Write a Java program to reverse a number using a while loop.
+
+---
+
+### *Literals and Data Types*
+26. Write a Java program to demonstrate different types of literals (integer, floating-point, character, string, and boolean).
+27. Write a Java program to declare and initialize variables of all primitive data types and print their values.
+28. Write a Java program to convert temperature from Celsius to Fahrenheit.
+29. Write a Java program to find the sum of digits of a given number.
+30. Write a Java program to check if a number is a palindrome.
