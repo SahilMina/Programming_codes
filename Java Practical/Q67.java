@@ -3,7 +3,7 @@ class Box3 {
     double height;
     double depth;
 
-    Box3(Box ob) {
+    Box3(box1 ob) {
         width = ob.width;
         height = ob.height;
         depth = ob.depth;
